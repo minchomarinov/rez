@@ -1,4 +1,6 @@
 #first function
-def myfunction:
-  return
+def myfunction():
+  #added first variable
+  value = "MyTest"
+  return value
  
